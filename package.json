@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "repro": "node repro.mjs",
     "knip": "knip",
     "knip:reproduction": "knip --workspace packages/should-include"
   },
